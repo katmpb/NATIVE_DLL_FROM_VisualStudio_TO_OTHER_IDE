@@ -1,0 +1,5 @@
+C:\Users\KatMPBSoft\Documents\Visual Studio 2008\Projects\UnmanagedExportLibrary1\UnmanagedExportLibrary1\bin\Debug\UnmanagedExportLibrary1.dll
+C:\Users\KatMPBSoft\Documents\Visual Studio 2008\Projects\UnmanagedExportLibrary1\UnmanagedExportLibrary1\bin\Debug\UnmanagedExportLibrary1.pdb
+C:\Users\KatMPBSoft\Documents\Visual Studio 2008\Projects\UnmanagedExportLibrary1\UnmanagedExportLibrary1\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\KatMPBSoft\Documents\Visual Studio 2008\Projects\UnmanagedExportLibrary1\UnmanagedExportLibrary1\obj\Debug\UnmanagedExportLibrary1.dll
+C:\Users\KatMPBSoft\Documents\Visual Studio 2008\Projects\UnmanagedExportLibrary1\UnmanagedExportLibrary1\obj\Debug\UnmanagedExportLibrary1.pdb
